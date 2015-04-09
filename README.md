@@ -2,7 +2,7 @@
 Messenger Native
 ================
 
-A native chromeless & frameless window wrapper around the new www.messenger.com
+A desktop wrapper around the new www.messenger.com
  
 ![ScreenShot](https://cdn.rawgit.com/imton/MessengerNative/4d745f6d5f359f3c0455e1615c5caba9e57aedff/render/screenshot.png "Screenshot!")
 
@@ -11,10 +11,3 @@ A native chromeless & frameless window wrapper around the new www.messenger.com
 ````bash
 $ npm install && grunt nodewebkit
 ````
-
---
-
-
-### HELP NEEDED! 
-
-PULL REQUESTS + TESTING + FEEDBACK + ISSUES WELCOME!  :)
